@@ -244,4 +244,4 @@ This repository serves as the official landing page for Sail Simulator. The soft
 **Get the most recent version of Sail Simulator today!**
 
 ---
-**Last updated:** 2026-09-18 17:59:37 UTC
+**Last updated:** 2026-09-18 20:37:46 UTC
